@@ -39,6 +39,7 @@
   - La consulta correspondiente a este apartado es:
   
   ![apartado4 bueno](https://github.com/user-attachments/assets/7cfec1fc-042a-40c2-9770-3293ddbaad72)
+  
   ***En la parte inferior de la imagen se puede observar el resultado de dicha consulta***
   
 
@@ -48,11 +49,12 @@
 - ***Utilizando las tablas de odoo, obtén un listado de empresas proveedoras, que han emitido algún reembolso***
   
   - La query para el ejercicio es:
+    
   ![apartado 5 consulta](https://github.com/user-attachments/assets/3753e6ef-7add-4be0-b27d-3111443dfbf2)
   
   
   - La respuesta correspondiente a este apartado seria:
-  
+
   ![respuesta apartado5](https://github.com/user-attachments/assets/df003480-3374-4d7c-867e-46d018b7eac7)
 
 ## ***Apartado6***
@@ -60,7 +62,22 @@
 - ***Utilizando las tablas de odoo, obtén un listado de empresas clientes, a las que se les ha emitido más de dos facturas de venta (solo venta) confirmadas***
   
   - El script correspondiente seria:
+
   ![consulta apartado6](https://github.com/user-attachments/assets/fa6d16d9-1666-4be5-9445-e8177d246ae7)
   
   - Y el resultado correspondiente este:
+  
   ![resultado apartado6](https://github.com/user-attachments/assets/05fa16a4-a056-4b9d-951f-9e6265327b49)
+
+## ***Apartado7***
+
+- ***Crea una sentencia que actualice el correo de los contactos cuyo dominio es @bilbao.example.com a @bilbao.bizkaia.neus***
+  
+  - La consulta sería:
+  
+  ![apartado7](https://github.com/user-attachments/assets/2be9fcf3-6863-4448-9491-9588480a542a)
+  
+  - Despues de esto realizamos un select para comprobar si está todo correcto:
+
+    ![apartado7parte2](https://github.com/user-attachments/assets/a5f9b2f0-18d8-419c-801c-252b5abeec88)
+    
