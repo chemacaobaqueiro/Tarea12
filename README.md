@@ -13,3 +13,11 @@
   - Comprobamos que se ha creado correctamente:
   
   ![TbalaPGAdmin](https://github.com/user-attachments/assets/ff4fa569-bfd0-4bdf-b6e5-bd06eb2c239e)
+
+## ***Apartado2***
+
+- ***Inserta 5 registros inventados en la tabla a través de una sentencia SQL***
+  
+  - El scrip necesario es:
+  ![insert buenos d vda](https://github.com/user-attachments/assets/f9ac3b81-e7fd-4318-b0f5-b0ebf4737000)
+
