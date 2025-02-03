@@ -54,3 +54,13 @@
   - La respuesta correspondiente a este apartado seria:
   
   ![respuesta apartado5](https://github.com/user-attachments/assets/df003480-3374-4d7c-867e-46d018b7eac7)
+
+## ***Apartado6***
+
+- ***Utilizando las tablas de odoo, obtén un listado de empresas clientes, a las que se les ha emitido más de dos facturas de venta (solo venta) confirmadas***
+  
+  - El script correspondiente seria:
+  ![consulta apartado6](https://github.com/user-attachments/assets/fa6d16d9-1666-4be5-9445-e8177d246ae7)
+  
+  - Y el resultado correspondiente este:
+  ![resultado apartado6](https://github.com/user-attachments/assets/05fa16a4-a056-4b9d-951f-9e6265327b49)
