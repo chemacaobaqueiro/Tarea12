@@ -81,3 +81,26 @@
 
     ![apartado7parte2](https://github.com/user-attachments/assets/a5f9b2f0-18d8-419c-801c-252b5abeec88)
     
+
+## ***Apartado8***
+
+- ***Crea una sentencia que elimine todos los contactos pertenecientes a la empresa “Ready Mat”***
+
+  - Primero antes de hacer ninguna consulta comprobamos como es nuestro plugin de contactos actualmente
+
+    ![apartado8_antes](https://github.com/user-attachments/assets/6563db11-0933-4061-8e18-a3497ca7a2c6)
+
+
+  - La primera parte de la consulta seria:
+
+    ![consulta_8_buena](https://github.com/user-attachments/assets/33cbe833-2925-4103-9a88-001eaaaf2bc9)
+    
+  - La respuesta a dicha query es:
+    
+    ![apartado8_respuesta](https://github.com/user-attachments/assets/6429915d-5f22-40e2-a7fc-4faafcd004b3)
+
+  - Y los contactos ahora se verian así:
+
+    ![apartado8_despues](https://github.com/user-attachments/assets/9b5da68f-74ef-48be-96e0-0f54a39fda34)
+
+    
