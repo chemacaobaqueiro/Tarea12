@@ -31,3 +31,13 @@
   ![RESULTADO SELECT](https://github.com/user-attachments/assets/d49c40eb-2bf0-4a64-b53d-68cc35721939)
   
 
+
+## ***Apartado4***
+
+- ***Realiza una consulta que permita obtener un listado de todos los contactos de Odoo (no empresas)***
+  
+  - La consulta correspondiente a este apartado es:
+  
+  ![apartado4 bueno](https://github.com/user-attachments/assets/7cfec1fc-042a-40c2-9770-3293ddbaad72)
+  ***En la parte inferior de la imagen se puede observar el resultado de dicha consulta***
+  
