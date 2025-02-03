@@ -41,3 +41,16 @@
   ![apartado4 bueno](https://github.com/user-attachments/assets/7cfec1fc-042a-40c2-9770-3293ddbaad72)
   ***En la parte inferior de la imagen se puede observar el resultado de dicha consulta***
   
+
+
+## ***Apartado5***
+
+- ***Utilizando las tablas de odoo, obtén un listado de empresas proveedoras, que han emitido algún reembolso***
+  
+  - La query para el ejercicio es:
+  ![apartado 5 consulta](https://github.com/user-attachments/assets/3753e6ef-7add-4be0-b27d-3111443dfbf2)
+  
+  
+  - La respuesta correspondiente a este apartado seria:
+  
+  ![respuesta apartado5](https://github.com/user-attachments/assets/df003480-3374-4d7c-867e-46d018b7eac7)
